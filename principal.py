@@ -1,2 +1,8 @@
 
-print "Hola Usuario"
+lista = []
+
+def agregar(nombre):
+	lista.add(nombre)
+
+
+
